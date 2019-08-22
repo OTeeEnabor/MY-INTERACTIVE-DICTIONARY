@@ -1,0 +1,13 @@
+Dictionary Python Stepwise refinement
+
+Build an interactive dictionary using Python and the following 3rd party libraries - JSON and Difflib. 
+
+
+The dictionary is stored in json file which is loaded into python using the json libary, the dictionary is stored as a python Dictionary type. 
+
+
+The user is prompted to search for a word in the dictionary, if the word exists in the dictionary, return the word, if not tell the user to either search for a new word or close the dictionary.
+
+
+
+
